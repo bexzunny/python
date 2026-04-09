@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Black">
     <option name="sdkName" value="Python 3.14 (SentenciasDecision)" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.14 (SentenciasDecision)" project-jdk-type="Python SDK" />
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.14 (SentenciasDecision)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.14 (SentenciasDecision)" project-jdk-type="Python SDK" />
+>>>>>>> 3a5a0ee2db19353d60567e72d2f2d61db3241772
 </project>

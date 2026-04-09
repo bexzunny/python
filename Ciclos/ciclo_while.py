@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 print("++++Ciclo While++++")
 
 # Imprimir los valores del 1 al 5
@@ -5,3 +6,12 @@ contador = 1
 while contador <=5:
     print(contador,end="\n")
     contador+=1
+=======
+print("++++Ciclo While++++")
+
+# Imprimir los valores del 1 al 5
+contador = 1
+while contador <=5:
+    print(contador,end="\n")
+    contador+=1
+>>>>>>> 3a5a0ee2db19353d60567e72d2f2d61db3241772

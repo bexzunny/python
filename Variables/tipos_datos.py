@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Programa: Ficha secreta del superheros
 
 #Tipos de datos básicos
@@ -35,4 +36,43 @@ print(type(nombre))
 print(type(edad))
 print(type(fuegos))
 print(type(sin_escape))
+=======
+#Programa: Ficha secreta del superheros
+
+#Tipos de datos básicos
+
+# str (texto)
+nombre="Daredevill"
+poder_principal="devil"
+
+# int (numero entero)
+edad = 28
+misiones_completadas = 42
+
+# float (numero decimal)
+fuegos = 3.5
+# fuegos = "hola"
+
+# bool (booleano)
+sin_escape = True
+vista = False
+
+# Nonetype (sin valor)
+compa_actual= None
+
+#Mostramos la información
+print("----Información----")
+print("Nombre: ",nombre)
+print("Misiones completadas: ",misiones_completadas)
+print("Edad: ",edad)
+print("Fuegos: ",fuegos)
+print("Sin escape: ",sin_escape)
+print("Vista: ", vista)
+print("Compañia actual: ", compa_actual)
+print("++++Tipos de Datos++++")
+print(type(nombre))
+print(type(edad))
+print(type(fuegos))
+print(type(sin_escape))
+>>>>>>> 3a5a0ee2db19353d60567e72d2f2d61db3241772
 print(type(compa_actual))
