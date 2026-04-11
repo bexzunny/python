@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 print("++++ Manejo de listas ++++")
 
 mi_lista = [1,2,3,4,5]
@@ -39,7 +38,6 @@ print(f"{mi_lista} -> se removió el elemento con el index 2")
 
 #Obtener sublistas
 sublista = mi_lista[1:3] #Genera una sublista del 1 al 2
-=======
 print("++++ Manejo de listas ++++")
 
 mi_lista = [1,2,3,4,5]
@@ -80,5 +78,4 @@ print(f"{mi_lista} -> se removió el elemento con el index 2")
 
 #Obtener sublistas
 sublista = mi_lista[1:3] #Genera una sublista del 1 al 2
->>>>>>> 3a5a0ee2db19353d60567e72d2f2d61db3241772
 print(f"sublista [1:3] = {sublista}")
